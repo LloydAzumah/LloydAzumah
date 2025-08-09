@@ -1,41 +1,44 @@
-# Hi, I’m Lloyd Ensor Azumah 👋
-
 ![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-blue)
-![IT Support](https://img.shields.io/badge/Role-IT%20Support%20Specialist-green)
+![IT Support](https://img.shields.io/badge/Role-Entry--Level%20IT%20%26%20Cybersecurity-green)
 ![Learning](https://img.shields.io/badge/Learning-Penetration%20Testing%20%26%20ISO27001-orange)
 ![OS](https://img.shields.io/badge/OS-Windows%20%26%20Linux-lightgrey)
 
 ---
 
-## 💻 About Me  
-I’m an **Aspiring Cybersecurity Professional** with a solid foundation in **IT support, network administration, and penetration testing**.  
-I’ve resolved real-world IT issues in enterprise environments, monitored multi-branch networks, and completed simulated attacks on Active Directory, web apps, and vulnerable machines.  
+## 📄 Summary  
+As an **entry-level IT and cybersecurity professional**, I focus on building a strong technical foundation to help secure systems and networks.  
+My background includes **IT support in enterprise environments**, **network monitoring**, and **hands-on cybersecurity labs** where I’ve practiced vulnerability assessment, penetration testing, and security hardening.  
+
+I’m committed to **continuous learning** and applying industry best practices while developing my communication skills to bridge the gap between technical teams and non-technical stakeholders.
 
 ---
 
-## 🛠️ Skills & Tools  
-- **Cybersecurity Tools:** Kali Linux, Nmap, Metasploit, Nessus, Burp Suite  
-- **Networking:** TCP/IP, DNS, ICMP, ARP, HTTP, SSH  
-- **Systems:** Windows & Linux Administration  
-- **Security Compliance:** ISO/IEC 27001 fundamentals, security audits, risk reduction strategies  
-- **Soft Skills:** Technical documentation, translating technical jargon into clear communication  
+## 🛠️ Key Skills  
+- Vulnerability assessment & penetration testing with **Kali Linux, Nmap, Nessus, Metasploit, and Burp Suite**  
+- Windows & Linux system administration  
+- Understanding of **TCP/IP, DNS, ICMP, ARP, HTTP, SSH**  
+- Familiarity with **ISO 27001 fundamentals** & basic audit planning  
+- Troubleshooting of laptops, printers, and peripherals  
+- Clear and effective technical communication  
 
 ---
 
-## 📜 Certifications & Training (In Progress / Completed)  
-- ISO/IEC 27001:2022 Lead Auditor (In Progress) – *Mastermind Assurance*  
-- Practical Ethical Hacker – *TCM Security Academy*  
-- Cisco CyberOps Associate – *GI-KACE*  
-- Cybersecurity Tools & Attacks – *Coursera (IBM)*  
-- Operating Systems & You – *Coursera (Google)*  
+## 🎓 Credentials  
+- **BSc. Computer Engineering** – Ghana Communication Technology University *(Second Class Upper)*  
+
+**Certifications & Training:**  
+- ISO/IEC 27001:2022 Lead Auditor *(In Progress)* – Mastermind Assurance  
+- Practical Ethical Hacker *(In Progress)* – TCM Security Academy  
+- Cisco CyberOps Associate – GI-KACE  
+- Cybersecurity Tools & Attacks – Coursera (IBM)  
+- Operating Systems and You – Coursera (Google)  
 
 ---
 
-## 🧪 Projects & Labs  
+## 🔬 Hands-on Projects  
 - **Active Directory Security Lab** – Privilege escalation techniques & mitigation  
 - **Nessus Vulnerability Assessment** – Scan, report, and remediation planning  
-- **Academy VM / Blue VM / Dev VM Attacks** – Reconnaissance, exploitation & privilege escalation  
-- **Network Monitoring Tool (Ongoing)** – Python-based real-time ping and status checker  
+- **Academy VM / Blue VM / Dev VM Labs** – Reconnaissance, exploitation & privilege escalation  
 
 ---
 
@@ -45,4 +48,4 @@ I’ve resolved real-world IT issues in enterprise environments, monitored multi
 
 ---
 
-💡 *“Security is not a product, but a process.” – Bruce Schneier*  
+💡 *"Security is not a one-time setup — it’s a continuous process of improvement."*  
