@@ -1,10 +1,3 @@
-![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-blue)
-![IT Support](https://img.shields.io/badge/Role-Entry--Level%20IT%20%26%20Cybersecurity-green)
-![Learning](https://img.shields.io/badge/Learning-Penetration%20Testing%20%26%20ISO27001-orange)
-![OS](https://img.shields.io/badge/OS-Windows%20%26%20Linux-lightgrey)
-
----
-
 ## 📄 Summary  
 As an **entry-level IT and cybersecurity professional**, I focus on building a strong technical foundation to help secure systems and networks.  
 My background includes **IT support in enterprise environments**, **network monitoring**, and **hands-on cybersecurity labs** where I’ve practiced vulnerability assessment, penetration testing, and security hardening.  
