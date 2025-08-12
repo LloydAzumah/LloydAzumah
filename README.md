@@ -1,6 +1,6 @@
 ## 📄 Summary  
 As an **entry-level IT and cybersecurity professional**, I focus on building a strong technical foundation to help secure systems and networks.  
-My background includes **IT support in enterprise environments**, **network monitoring**, and **hands-on cybersecurity labs** where I’ve practiced vulnerability assessment, penetration testing, and security hardening.  
+My background includes **IT support in enterprise environments** and **hands-on cybersecurity labs** where I’ve practiced vulnerability assessment, penetration testing, and security hardening.  
 
 I’m committed to **continuous learning** and applying industry best practices while developing my communication skills to bridge the gap between technical teams and non-technical stakeholders.
 
