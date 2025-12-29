@@ -20,8 +20,8 @@ I’m committed to **continuous learning** and applying industry best practices 
 - **BSc. Computer Engineering** – Ghana Communication Technology University *(Second Class Upper)*  
 
 **Certifications & Training:**  
-- ISO/IEC 27001:2022 Lead Auditor *(In Progress)* – Mastermind Assurance  
-- Practical Ethical Hacker *(In Progress)* – TCM Security Academy  
+- ISO/IEC 27001:2022 Lead Auditor – Mastermind Assurance  
+- Practical Ethical Hacker – TCM Security Academy  
 - Cisco CyberOps Associate – GI-KACE  
 - Cybersecurity Tools & Attacks – Coursera (IBM)  
 - Operating Systems and You – Coursera (Google)  
@@ -29,7 +29,8 @@ I’m committed to **continuous learning** and applying industry best practices 
 ---
 
 ## 🔬 Hands-on Projects  
-- **Active Directory Security Lab** – Privilege escalation techniques & mitigation  
+- **Active Directory Security Lab** – Privilege escalation techniques & mitigation
+- **Windows Server and Active Enterprise Lab**   
 - **Nessus Vulnerability Assessment** – Scan, report, and remediation planning  
 - **Academy VM / Blue VM / Dev VM Labs** – Reconnaissance, exploitation & privilege escalation  
 
