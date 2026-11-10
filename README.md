@@ -1,3 +1,5 @@
+> *"Never trust, always verify."* — **Zero Trust Security Principle**
+
 # 📄 Summary  
 As a **Computer Engineer and IT Support Specialist**, I focus on building secure, resilient systems and networks with the ultimate goal of becoming an **Enterprise Cybersecurity Architect**.  
 
